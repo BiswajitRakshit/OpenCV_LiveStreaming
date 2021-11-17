@@ -1,5 +1,4 @@
-# OpenCV_LiveStreaming
-Face and eyes detection using xml model of Haarcascades
+# Face and eyes detection using xml model of Haarcascades
 
 In order to do object recognition/detection with cascade files, you first need cascade files. 
 
